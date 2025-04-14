@@ -56,7 +56,7 @@ This tool was built to practice **real-world cryptography** and show understandi
 ## 👤 Author
 
 **Pournami Jaisudhir Nair**  
-Computer Science And Engineering Student in Vellore Institute Of Technology.
+Computer Science And Engineering Student exploring Cybersecurity.
 
 
 
